@@ -1,6 +1,6 @@
 # CF_XGZP6897D Arduino Library
 
-An Arduino library for the **CFSensor XGZP6897D** differential pressure sensor. The sensor talks over **I2C** at the fixed address `0x6D`.
+An Arduino-type library for the **CFSensor XGZP6897D** differential pressure sensor. The sensor talks over **I2C** at the fixed address `0x6D`. Tested with a Teensy 4.0.
 
 ## ⚠️ Sensor version
 
