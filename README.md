@@ -191,6 +191,6 @@ MIT License. The full text is in [src/CF_XGZP6897D.h](src/CF_XGZP6897D.h).
 
 ## Revision history
 
-| Version | Date       | Description     |
-|---------|------------|-----------------|
-| 1.0.0   | 2026-10-14 | Initial release |
+| Version | Author                                   | Date       | Description     |
+|---------|------------------------------------------|------------|-----------------|
+| 1.0.0   | Claude Code opus-5-5, tested by Kasprzak  |2026-10-14 | Initial release |
